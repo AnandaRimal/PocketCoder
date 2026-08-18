@@ -1,0 +1,17 @@
+{
+  "sft_repo": "Ananda100/python-sft-dataset",
+  "n_sft_examples": 280317,
+  "n_humaneval_mbpp_fingerprints": 663,
+  "n_contaminated": 8,
+  "contamination_rate_pct": 0.0028539118212595025,
+  "contaminated_indices": [
+    207464,
+    208417,
+    208827,
+    208974,
+    211635,
+    216588,
+    218113,
+    224133
+  ]
+}
